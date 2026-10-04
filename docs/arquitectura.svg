@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="es" width="1500" height="640" viewBox="0 0 1500 640" role="img" aria-labelledby="title desc">
+<title id="title">FISI / UNMSM — Arquitectura del asistente académico MVP</title><desc id="desc">La ingesta administrativa se procesa en cola mediante trabajadores independientes y se publica en una base de conocimiento institucional. Los estudiantes consultan el backend y la API de IA, que recupera evidencia institucional y solicita datos académicos mínimos a través de una pasarela SUM. Playwright local es el adaptador del MVP; una API autorizada podría reemplazarlo en el futuro.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#64748b"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#243246;font-size:14px}.head{font-weight:700;font-size:16px}.sub{font-size:12px;fill:#526176}.edge{fill:none;stroke:#64748b;stroke-width:1.6;marker-end:url(#arrow)}.both{marker-start:url(#arrow)}.future{stroke-dasharray:6 5}.label{font-size:12px;paint-order:stroke;stroke:#fff;stroke-width:5px;stroke-linejoin:round}</style>
+<rect width="1500" height="640" fill="#fff"/>
+<text x="40" y="37" font-size="25" font-weight="700">FISI / UNMSM — Asistente académico MVP</text>
+<text x="40" y="63" class="sub">Flujos independientes de ingesta y consulta · Integración SUM reemplazable</text>
+<text x="40" y="90" class="sub">CONOCIMIENTO INSTITUCIONAL / ASÍNCRONO</text>
+<text x="40" y="260" class="sub">CONSULTA ESTUDIANTIL / INTERACTIVA</text>
+<g class="edge">
+<path d="M110 160V235H290V280"/>
+<path d="M290 280V130H400"/>
+<path d="M540 130H580"/><path d="M720 130H760"/>
+<path class="both" d="M180 310H220"/><path class="both" d="M360 310H400"/>
+<path class="both" d="M470 280V210H830V180"/>
+<path class="both" d="M540 320H760"/>
+<path class="both" d="M900 320H940"/>
+<path class="both" d="M1080 320H1300"/>
+<path class="future" d="M830 360V440H940"/>
+<path class="future" d="M1080 440H1370V340"/>
+</g>
+<g>
+<rect x="40" y="100" width="140" height="60" rx="3" fill="#fff4cf" stroke="#d4af54"/><path d="M50 100V160M170 100V160" stroke="#d4af54"/><text x="110" y="125" text-anchor="middle" class="head">Administración</text><text x="110" y="146" text-anchor="middle" class="sub">Organizar fuentes oficiales</text>
+<rect x="400" y="100" width="140" height="60" rx="8" fill="#fff4cf" stroke="#d4af54"/><text x="470" y="125" text-anchor="middle" class="head">Cola durable</text><text x="470" y="146" text-anchor="middle" class="sub">Trabajos de indexación</text>
+<rect x="580" y="100" width="140" height="60" rx="3" fill="#fff4cf" stroke="#d4af54"/><path d="M590 100V160M710 100V160" stroke="#d4af54"/><text x="650" y="125" text-anchor="middle" class="head">Indexadores</text><text x="650" y="146" text-anchor="middle" class="sub">Analizar · dividir · vectorizar</text>
+<path d="M760 113C760 96 900 96 900 113V166C900 183 760 183 760 166Z" fill="#e6f4e9" stroke="#86b393"/><ellipse cx="830" cy="113" rx="70" ry="12" fill="#d9eedf" stroke="#86b393"/><text x="830" y="142" text-anchor="middle" class="head">Base institucional</text><text x="830" y="159" text-anchor="middle" class="sub">Fuentes + metadatos</text><text x="830" y="175" text-anchor="middle" class="sub">Vectores publicados</text>
+<rect x="40" y="280" width="140" height="60" rx="3" fill="#e4efff" stroke="#789acd"/><path d="M50 280V340M170 280V340" stroke="#789acd"/><text x="110" y="305" text-anchor="middle" class="head">Interfaz estudiantil</text><text x="110" y="326" text-anchor="middle" class="sub">Consultas + citas</text>
+<rect x="220" y="280" width="140" height="60" rx="8" fill="#e4efff" stroke="#789acd"/><text x="290" y="305" text-anchor="middle" class="head">API backend</text><text x="290" y="324" text-anchor="middle" class="sub">Acceso · tareas · consultas</text>
+<rect x="400" y="280" width="140" height="80" rx="8" fill="#efe7f7" stroke="#a18abb"/><text x="470" y="305" text-anchor="middle" class="head">API de IA</text><text x="470" y="327" text-anchor="middle" class="sub">Coordinación acotada</text><text x="470" y="345" text-anchor="middle" class="sub">RAG + reglas</text>
+<rect x="760" y="280" width="140" height="80" rx="8" fill="#fde8e5" stroke="#ca9289"/><text x="830" y="301" text-anchor="middle" class="head">Contexto académico</text><text x="830" y="320" text-anchor="middle" class="head">Pasarela</text><text x="830" y="337" text-anchor="middle" class="sub">Minimizar · normalizar</text><text x="830" y="352" text-anchor="middle" class="sub">Instantánea privada</text>
+<rect x="940" y="280" width="140" height="80" rx="8" fill="#fde8e5" stroke="#ca9289"/><text x="1010" y="305" text-anchor="middle" class="head">Adaptador MVP</text><text x="1010" y="327" text-anchor="middle" class="sub">Playwright local</text><text x="1010" y="346" text-anchor="middle" class="sub">POST autenticado</text>
+<rect x="940" y="400" width="140" height="80" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-dasharray="6 5"/><text x="1010" y="425" text-anchor="middle" class="head">Adaptador futuro</text><text x="1010" y="447" text-anchor="middle" class="sub">API SUM autorizada</text><text x="1010" y="465" text-anchor="middle" class="sub">Sustituye a Playwright</text>
+<rect x="1300" y="280" width="140" height="60" rx="8" fill="#f1f5f9" stroke="#8493a6"/><text x="1370" y="305" text-anchor="middle" class="head">SUM</text><text x="1370" y="326" text-anchor="middle" class="sub">Sistema institucional</text>
+</g>
+<g class="label"><text x="130" y="226">Gestionar fuentes</text><text x="310" y="121">Encolar</text><text x="544" y="120">Tareas</text><text x="723" y="120">Publicar</text><text x="600" y="201">Recuperar evidencia</text><text x="580" y="310">Datos académicos necesarios</text><text x="901" y="274">Contrato estable</text><text x="1120" y="310">JSON de la sesión</text><text x="842" y="431">Mismo contrato</text><text x="1150" y="431">Integración futura</text></g>
+<path d="M40 505H1440" stroke="#dbe2ea"/>
+<text x="40" y="534" class="head">Cuatro límites de ejecución</text><text x="40" y="558">API backend · API de IA · Pasarela SUM · Indexadores</text>
+<text x="40" y="584" class="sub">El estudiante inicia sesión en el navegador local de Playwright. No se guardan contraseñas ni sesiones. Las instantáneas no ingresan a la base institucional compartida.</text>
+<text x="40" y="610" class="sub">Línea continua = MVP · Discontinua = reemplazo futuro · Orientación basada en evidencia, no una decisión administrativa oficial</text>
+</svg>
