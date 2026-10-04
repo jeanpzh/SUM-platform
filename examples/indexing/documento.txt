@@ -1,0 +1,5 @@
+DOCUMENTO SINTÉTICO DE PRUEBA. NO ES UNA NORMA INSTITUCIONAL.
+
+Este texto permite comprobar la carga, extracción, fragmentación e indexación de un documento en español. Sus datos son ficticios y no deben utilizarse como orientación académica.
+
+El proceso debe conservar el título y los metadatos, generar vectores y comunicar el estado final del trabajo. Esta prueba no define requisitos de matrícula, reglas de evaluación ni procedimientos de una universidad.

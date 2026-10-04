@@ -1,0 +1,11 @@
+{
+  "dataset_id": "admin-rag-fixture",
+  "version": "v1",
+  "cases": [{
+    "case_id": "published-version",
+    "question": "¿Qué versión se consulta durante una actualización?",
+    "document_ids": ["e5a1b5dd-696c-4f0d-827c-6c1899e2e041"],
+    "generation_ids": ["30ec3e04-30f1-4f87-a146-cd8af0e00327"],
+    "relevant_ids": ["8a4dafbf-2c3c-4a34-a316-d46fed6d8818"]
+  }]
+}
