@@ -1,0 +1,22 @@
+# Redacted research excerpt — FISI Acta Council Virtual No. 17
+
+Source document: `sources/originals/FISI-Acta-Consejo-Facultad-2020-09-22-virtual17-ordinaria12.pdf`  
+Source URL: https://sistemas.unmsm.edu.pe/site/rd?task=download.send&id=16&catid=5&m=0  
+Extraction: `FISI-Acta-Consejo-Facultad-2020-09-22-virtual17-ordinaria12.txt`  
+This excerpt omits attendee names, vote-by-person rows, unrelated agenda and personal identifiers. Page references are the PDF page numbers.
+
+## p.2 — request to end the 2009 plan
+
+The agenda item is “Solicita dejar sin efecto el Plan de Estudios 2009 de la EPIS.” It reports the Systems EP request to end Plan 2009 and cites RR 00698-R-20 (18 February 2020) as approving an equivalency table for Plans 2009–2014. A council member requests extending Plan 2009 through 2021-II because the proposed equivalence reportedly omitted courses and could cost students credits.
+
+## p.3 — first vote
+
+The Council votes on the proposal to leave Plan 2009 without effect immediately. The proposal is **rejected: 8 votes against, 1 abstention**.
+
+## pp.4–5 — delayed end date
+
+The Council discusses ending Plan 2009 after semester 2021-II. On p.5 the motion is worded as leaving Plan 2009 without effect and applying that decision in semester 2022-I. The motion is **accepted: 8 votes in favor, 1 abstention**.
+
+## Evidentiary limit
+
+This Acta supports the end-date vote and that RR 00698-R-20's Plan 2009→2014 equivalency table was cited in the meeting. It does not supply RR 00698 or that table, does not establish the cycle-group routes shown in the separate FISI notice, and does not establish student-specific assigned plans.

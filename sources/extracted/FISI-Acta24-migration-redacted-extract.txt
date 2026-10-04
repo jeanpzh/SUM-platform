@@ -1,0 +1,18 @@
+# Redacted research excerpt — FISI Acta Council Virtual No. 24
+
+Source document: `sources/originals/FISI-Acta-Consejo-Facultad-2021-07-27-sesion-14.pdf`  
+Source URL: https://sistemas.unmsm.edu.pe/site/rd?task=download.send&id=146&catid=6&m=0  
+Extraction: `FISI-Acta-Consejo-Facultad-2021-07-27-sesion-14.txt`  
+This excerpt omits attendee names and unrelated agenda; page numbers refer to the PDF.
+
+## p.2 — proposed Systems Engineering migration
+
+The agenda requests approval of migration from Plan 2009 to Plans 2018 and 2014. The Systems EP director states the proposal: students in cycles I–VI move to 2018; VII–VIII to 2014; IX–X remain in 2009. The rationale states Plan 2009 would be valid only through 2021-II and Plan 2014 was also expected to end as a new plan was being designed. The director reports VRAP had considered migration/convalidation procedurally possible subject to the applicable procedures.
+
+## pp.2–3 — equivalency table and decision status
+
+The agenda separately requests approval of the 2009→2018 equivalency table. The director says the proposed matching used at least 80% syllabus similarity, destination-equal-or-greater credits, and some compensatory equivalencies. On p.3 the minutes state that both the 2009-to-2018/2014 migration plan and the 2009→2018 equivalency table **remain pending approval**.
+
+## Evidentiary limit
+
+These minutes document a proposal and its pending status at this meeting. They do not establish that the table was later adopted and do not override the earlier 2020 vote or the FISI notice. The later approving instrument/table, if any, remains to be obtained.

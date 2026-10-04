@@ -1,0 +1,420 @@
+===== PAGE 1 =====
+LISTADO DE ASIGNATURAS PROGRAMADAS
+
+ 
+
+ 
+
+Facultad
+:
+INGENIERÍA DE SISTEMAS E INFORMÁTICA (20)
+
+Escuela
+:
+E.P. de Ciencias de la Computación (3)
+
+Plan de Estudios
+:
+2023 - Plan de Estudios 2023
+
+Periodo Académico
+:
+2026-0
+
+Usuario del Sistema
+:
+mpecerosr
+
+Fecha Impresión
+:
+Thursday, 8 January de 2026 14:48:53 PM
+
+Asignatura
+Sec.
+Tope
+Matric.
+Aula
+Modal.
+Turno Hor.
+Día
+Hora
+Docente
+
+Ciclo 2
+
+INO204 - CÁLCULO II
+1
+10
+0
+Presencial
+M
+3
+JUEVES
+08:00 - 12:00 17909678 - MORALES VARGAS,
+
+ALBERTO WILFREDO
+
+1
+10
+0
+Presencial
+M
+4
+JUEVES
+12:00 - 14:00 17909678 - MORALES VARGAS,
+
+ALBERTO WILFREDO
+
+1
+10
+0
+Presencial
+M
+1
+MARTES
+08:00 - 12:00 17909678 - MORALES VARGAS,
+
+ALBERTO WILFREDO
+
+1
+10
+0
+Presencial
+M
+2
+MARTES
+12:00 - 14:00 17909678 - MORALES VARGAS,
+
+ALBERTO WILFREDO
+
+INO205 - FÍSICA I
+1
+10
+0
+Presencial
+M
+1
+LUNES
+09:00 - 12:00 0A4049 - ADRIANO  PEÑA, ROLANDO
+
+WILDER
+
+1
+10
+0
+Presencial
+M
+2
+LUNES
+12:00 - 14:00 0A4049 - ADRIANO  PEÑA, ROLANDO
+
+WILDER
+
+1
+10
+0
+Presencial
+M
+3
+MIERCOLES
+09:00 - 12:00 0A4049 - ADRIANO  PEÑA, ROLANDO
+
+WILDER
+
+1
+10
+0
+Presencial
+M
+4
+MIERCOLES
+12:00 - 14:00 0A4049 - ADRIANO  PEÑA, ROLANDO
+
+WILDER
+
+Ciclo 3
+
+203230304 - ESTRUCTURAS
+DISCRETAS
+1
+20
+0
+Presencial
+T
+1
+MIERCOLES
+14:00 - 16:00 - - - -, -
+
+1
+20
+0
+Presencial
+T
+2
+MIERCOLES
+16:00 - 20:00 - - - -, -
+
+1
+20
+0
+Presencial
+T
+3
+VIERNES
+14:00 - 17:00 - - - -, -
+
+1
+20
+0
+Presencial
+T
+4
+VIERNES
+17:00 - 20:00 - - - -, -
+
+203230306 - INGENIERÍA
+ECONÓMICA
+1
+25
+0
+Presencial
+T
+3
+JUEVES
+14:00 - 16:00 29555125 - MERCADO PHILCO,
+
+FAUSTO FRANKLIN
+
+1
+25
+0
+Presencial
+T
+4
+JUEVES
+16:00 - 18:00 29555125 - MERCADO PHILCO,
+
+FAUSTO FRANKLIN
+
+1
+25
+0
+Presencial
+T
+1
+MARTES
+14:00 - 16:00 29555125 - MERCADO PHILCO,
+
+FAUSTO FRANKLIN
+
+1
+25
+0
+Presencial
+T
+2
+MARTES
+16:00 - 18:00 29555125 - MERCADO PHILCO,
+
+FAUSTO FRANKLIN
+
+Ciclo 4
+
+203230401 - ALGORITMOS Y
+ESTRUCTURAS DE DATOS
+1
+20
+0
+Presencial
+M
+3
+JUEVES
+08:00 - 10:00 - - - -, -
+
+1
+20
+0
+Presencial
+M
+4
+JUEVES
+10:00 - 14:00 - - - -, -
+
+1
+20
+0
+Presencial
+M
+1
+MARTES
+08:00 - 10:00 - - - -, -
+
+1
+20
+0
+Presencial
+M
+2
+MARTES
+10:00 - 14:00 - - - -, -
+
+203230404 - ARQUITECTURA DE
+COMPUTADORES
+1
+18
+0
+Presencial
+T
+1
+MIERCOLES
+17:00 - 19:00 099589 - FERMIN PEREZ, FELIX
+
+ARMANDO
+
+1
+18
+0
+Presencial
+T
+2
+MIERCOLES
+19:00 - 21:00 099589 - FERMIN PEREZ, FELIX
+
+ARMANDO
+
+1
+18
+0
+Presencial
+T
+3
+VIERNES
+17:00 - 19:00 099589 - FERMIN PEREZ, FELIX
+
+ARMANDO
+
+1
+18
+0
+Presencial
+T
+4
+VIERNES
+19:00 - 21:00 099589 - FERMIN PEREZ, FELIX
+
+ARMANDO
+
+203230405 - ESTADÍSTICA Y
+PROBABILIDADES
+1
+5
+0
+Presencial
+M
+3
+JUEVES
+08:00 - 10:00 0A7486 - HUAMÁN  GUTIÉRREZ,
+
+JOSÉ MANUEL
+
+1
+5
+0
+Presencial
+M
+4
+JUEVES
+10:00 - 13:00 0A7486 - HUAMÁN  GUTIÉRREZ,
+
+JOSÉ MANUEL
+
+1
+5
+0
+Presencial
+M
+1
+LUNES
+08:00 - 10:00 0A7486 - HUAMÁN  GUTIÉRREZ,
+
+JOSÉ MANUEL
+
+Documento Verificable | Sistema Único de Matrícula
+Escanee este código QR para validar su autenticidad.
+
+Página 1
+
+===== PAGE 2 =====
+1
+5
+0
+Presencial
+M
+2
+LUNES
+10:00 - 13:00 0A7486 - HUAMÁN  GUTIÉRREZ,
+
+JOSÉ MANUEL
+
+Ciclo 5
+
+203C0506 - INVESTIGACIÓN
+OPERATIVA
+1
+20
+0
+Presencial
+X
+5
+JUEVES
+14:00 - 16:00 40764399 - MARAVI PERCCA, EDWIN
+
+1
+20
+0
+Presencial
+X
+6
+JUEVES
+16:00 - 18:00 40764399 - MARAVI PERCCA, EDWIN
+
+1
+20
+0
+Presencial
+X
+1
+MARTES
+14:00 - 16:00 40764399 - MARAVI PERCCA, EDWIN
+
+1
+20
+0
+Presencial
+X
+2
+MARTES
+16:00 - 18:00 40764399 - MARAVI PERCCA, EDWIN
+
+1
+20
+0
+Presencial
+X
+3
+MIERCOLES
+08:00 - 10:00 40764399 - MARAVI PERCCA, EDWIN
+
+1
+20
+0
+Presencial
+X
+4
+MIERCOLES
+10:00 - 12:00 40764399 - MARAVI PERCCA, EDWIN
+
+Documento Verificable | Sistema Único de Matrícula
+Escanee este código QR para validar su autenticidad.
+
+Página 2

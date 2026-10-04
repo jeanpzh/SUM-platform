@@ -1,0 +1,137 @@
+===== PAGE 1 =====
+DIRECTIVA N.º 001-SUM-2021
+
+PAUTAS PARA REGISTRO DE PLAN DE ESTUDIOS
+
+A. OBJETIVO:
+
+Orientar el procedimiento de registro de un nuevo Plan de Estudios en el Sistema 
+Único de Matricula.
+
+B. FINALIDAD:
+
+Facilitar el procedimiento de registro de un nuevo Plan de Estudios en la base de 
+datos del SUM.
+
+C. BASE LEGAL:
+
+-
+Resolución Rectoral N.º 01163-R-17 de fecha 07 de marzo de 2017, se aprueba 
+el “Reglamento General de Matrícula de la Universidad Nacional Mayor de San 
+Marcos, para pregrado”.
+
+-
+Resolución Rectoral N.º 01381-R-17 de fecha 15 de marzo de 2017, se aprueba 
+el “Reglamento General de Matrícula de posgrado de la Universidad Nacional 
+Mayor de San Marcos”.
+
+-
+Resolución Rectoral N.º 01524-R-20, se aprueba Directiva N.° 003-2020-
+SGDFD/UNMSM sobre “Normas para generalizar el uso del Sistema de Gestión 
+Documental con Firma Digital (SGDFD) para los trámites en la UNMSM”.
+
+D. ALCANCE:
+
+La presente directiva será de aplicación y cumplimiento de las Facultades y 
+dependencias involucradas en trámite documental y registro del nuevo plan de 
+estudios.
+
+E. DISPOSICIONES:
+
+1. El plan de estudios de cada Escuela Profesional o Programa de Posgrado debe 
+
+ser ratificado con resolución rectoral en virtud al artículo 15° de reglamento 
+general de matrícula de pregrado o artículo 13° del reglamento general de 
+matrícula de posgrado, según sea el caso.
+
+2. El plan de estudios debe incluir asignaturas debidamente codificadas, 
+
+creditaje, tipo de asignatura (sea obligatorio, electivo, optativo), horas. 
+Además, debe consignar los prerrequisitos, equivalencias (de ser necesario) y 
+total de créditos para aprobar el plan de estudios.
+
+3. En el caso de Pregrado: los códigos de asignaturas lo determinan las 
+
+facultades teniendo en la elaboración de su código un máximo de 8 dígitos 
+(caracteres).
+
+4. En el caso de Posgrado: los códigos de las asignaturas los determina la 
+
+Dirección General de Estudios de Posgrado, quien deberá considerar en la 
+elaboración de su código un máximo de 8 caracteres.
+
+5. En ningún caso se debe considerar códigos de asignaturas, que ya fueron 
+
+asignadas a otras asignaturas anteriormente.
+
+6. De tratarse de una Escuela Profesional o programa de posgrado nuevo, la 
+
+facultad deberá remitir al SUM la resolución rectoral de creación ó ratificación 
+correspondiente.
+
+Firmado digitalmente por
+PARRAGA VELASQUEZ Maria Del
+Rosario Elsa FAU 20148092282
+soft
+Motivo: Doy V° B°
+Fecha: 09.07.2021 17:33:19 -05:00
+
+===== PAGE 2 =====
+F. PUNTOS A CONSIDERAR EN EL FLUJO A TRAVES DEL SISTEMA DE 
+
+GESTIÓN DOCUMENTAL (SGD):
+
+
+Facultad: elabora plan de estudios de acuerdo a la guía para el diseño y 
+actualización curricular vigente en la Universidad.
+
+
+Facultad: Antes de emitir resolución de decanato aprobando la creación de 
+plan de estudios para el caso de:
+
+o
+Escuela Profesional, deberá remitir al SUM el listado de cursos para 
+verificación de códigos y evitar repeticiones.
+
+o
+Programa de Posgrado, deberá remitir los anexos correspondientes al 
+plan de estudios a la Dirección General de Estudios de Posgrado, para 
+la generación de códigos de asignatura; quien, a su vez, deberá remitir 
+al Vicerrectorado de Investigación y Posgrado para visto bueno.
+
+
+Facultad: Emisión de Resolución de Decanato cuyos anexos deberán estar en 
+un solo archivo pdf e incluir los cursos debidamente codificados y con las 
+firmas de las autoridades.
+
+
+Facultad: remite la R.D. al Rectorado para su ratificación
+
+
+Secretaria General: La Resolución Rectoral ratifica la R.D. y sus anexos que 
+deben tener las firmas de la autoridad
+
+
+Secretaria General: remite la R.R. y anexos al Sistema Único de Matricula para 
+su registro.
+
+
+Sistema Único de Matricula: Registra en base de datos y comunica a facultad 
+para su conformidad y V.°B°.
+
+
+Facultad: 
+
+o
+En caso estar conforme con el registro: Remite al SUM dicha 
+conformidad y V°B° 
+
+o
+En caso hubiera observaciones: Devolver el expediente al SUM con las 
+observaciones del caso, las mismas que serán respetando lo aprobado 
+por resolución rectoral. Toda modificación requiere ser aprobado 
+mediante otro documento del mismo nivel.
+
+
+Sistema Único de Matricula: Conserva en su archivo la conformidad del 
+registro de plan de estudios.
