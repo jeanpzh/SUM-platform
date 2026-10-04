@@ -1,0 +1,5 @@
+# Local orchestrator registration is configured with both -u URLs in compose.yaml.
+# The event payload for admin AI contains only contract_version and run_id.
+sdk-urls:
+  - http://indexer:8001/api/inngest
+  - http://ai:8002/api/inngest

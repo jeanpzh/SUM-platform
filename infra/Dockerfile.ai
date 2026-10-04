@@ -1,0 +1,21 @@
+FROM python:3.12-slim AS runtime
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+WORKDIR /app
+COPY infra/ai-requirements.lock /app/requirements.lock
+RUN pip install --no-cache-dir -r requirements.lock
+COPY packages/contracts /app/packages/contracts
+COPY packages/database /app/packages/database
+COPY services/ai-service /app/services/ai-service
+RUN pip install --no-cache-dir --no-deps ./packages/contracts ./packages/database ./services/ai-service \
+    && useradd --create-home --uid 10001 service
+USER service
+EXPOSE 8002
+CMD ["uvicorn", "sum_ai.app:create_app", "--factory", "--host", "0.0.0.0", "--port", "8002", "--timeout-keep-alive", "30"]
+
+FROM runtime AS test
+USER root
+COPY packages/storage /app/packages/storage
+COPY services/backend-api /app/services/backend-api
+RUN pip install --no-cache-dir pytest==9.1.1 ./packages/storage ./services/backend-api
+USER service
+CMD ["pytest", "-p", "no:cacheprovider", "-q"]
