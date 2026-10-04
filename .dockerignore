@@ -1,0 +1,15 @@
+.git
+.codegraph
+.agents
+.codex
+.aws
+.venv
+.runtime
+.env
+__pycache__
+*.pyc
+UI
+sources
+data
+logs
+docs/evidence

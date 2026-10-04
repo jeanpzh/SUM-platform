@@ -1,0 +1,40 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials and browser capture output
+.env
+.env.*
+!.env.example
+.playwright-mcp/
+.runtime/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Generated code indexes, local agent state and editor preferences
+.codegraph/
+.superpowers/
+.agents/
+.codex/
+.vscode/
+
+# JavaScript dependencies and generated application output
+node_modules/
+.nitro/
+.tanstack/
+.output/
+.wrangler/
+.vinxi/
+playwright-report/
+test-results/
+
+# Local logs and key material
+logs/
+*.log
+*.pem
+*.key
